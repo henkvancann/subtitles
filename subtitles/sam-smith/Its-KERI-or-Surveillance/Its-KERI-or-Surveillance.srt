@@ -1,10 +1,10 @@
 1
 00:00:00,480 --> 00:00:03,256
-Hello, my name is Samuel Smith. I'm uh
+Hello, my name is Samuel Smith. I'm
 
 2
 00:00:03,280 --> 00:00:06,456
-uh with the KERI Foundation. I'm also
+with the KERI Foundation. I'm also
 
 3
 00:00:06,480 --> 00:00:08,856
@@ -40,7 +40,7 @@ the Five Eyes surveillance
 
 11
 00:00:29,439 --> 00:00:32,136
-uh conglomerate between th those
+conglomerate between th those
 
 12
 00:00:32,160 --> 00:00:34,695
@@ -48,7 +48,7 @@ countries about the threat the cyber
 
 13
 00:00:34,719 --> 00:00:37,576
-cyber security threat uh that uh
+cyber security threat that
 
 14
 00:00:37,600 --> 00:00:41,576
@@ -92,11 +92,11 @@ in more detail.
 
 24
 00:01:03,760 --> 00:01:08,056
-Um this is an excerpt from the uh report
+this is an excerpt from the report
 
 25
 00:01:08,080 --> 00:01:11,736
-the link is there from the NSA. Um it's
+the link is there from the NSA. it's
 
 26
 00:01:11,760 --> 00:01:15,016
@@ -112,7 +112,7 @@ expectations.
 
 29
 00:01:19,680 --> 00:01:25,735
-Um this is a very technically worded
+this is a very technically worded
 
 30
 00:01:25,759 --> 00:01:29,735
@@ -120,7 +120,7 @@ you know warning basically
 
 31
 00:01:29,759 --> 00:01:34,216
-uh in months not years um these AI
+in months not years these AI
 
 32
 00:01:34,240 --> 00:01:37,016
@@ -128,7 +128,7 @@ models will overwhelm
 
 33
 00:01:37,040 --> 00:01:39,816
-um any say any cyber security
+any say any cyber security
 
 34
 00:01:39,840 --> 00:01:42,775
@@ -140,11 +140,11 @@ they're basically telling everyone in
 
 36
 00:01:45,280 --> 00:01:48,455
-this article it's a short article um you
+this article it's a short article you
 
 37
 00:01:48,479 --> 00:01:51,735
-need to um change your stance. You need
+need to change your stance. You need
 
 38
 00:01:51,759 --> 00:01:54,696
@@ -184,11 +184,11 @@ them to be better at at detecting
 
 47
 00:02:14,319 --> 00:02:18,056
-exploits, they also became good at um
+exploits, they also became good at
 
 48
 00:02:18,080 --> 00:02:21,016
-exploiting exploits. Um and so that
+exploiting exploits. and so that
 
 49
 00:02:21,040 --> 00:02:22,855
@@ -196,11 +196,11 @@ means that
 
 50
 00:02:22,879 --> 00:02:25,816
-um other less,
+other less,
 
 51
 00:02:25,840 --> 00:02:28,536
-shall we say, um
+shall we say,
 
 52
 00:02:28,560 --> 00:02:31,496
@@ -208,7 +208,7 @@ virtuous parties are building comparable
 
 53
 00:02:31,520 --> 00:02:34,136
-models. And on those uh once those are
+models. And on those once those are
 
 54
 00:02:34,160 --> 00:02:37,336
@@ -224,11 +224,11 @@ digital identity, which is what digital
 
 57
 00:02:42,560 --> 00:02:46,215
-security is based on, um will be broken
+security is based on, will be broken
 
 58
 00:02:46,239 --> 00:02:50,056
-everywhere. And that's a problem. Um and
+everywhere. And that's a problem. and
 
 59
 00:02:50,080 --> 00:02:51,816
@@ -244,7 +244,7 @@ actually have two paths forward.
 
 62
 00:02:57,840 --> 00:03:00,855
-Um the there the two paths are AI based
+the there the two paths are AI based
 
 63
 00:03:00,879 --> 00:03:02,935
@@ -272,7 +272,7 @@ When I say AI based digital identity,
 
 69
 00:03:11,519 --> 00:03:14,536
-I'm talking about what the um the five
+I'm talking about what the the five
 
 70
 00:03:14,560 --> 00:03:16,456
@@ -280,7 +280,7 @@ eyes report recommended is that people
 
 71
 00:03:16,480 --> 00:03:19,736
-start using AI based uh c counter
+start using AI based c counter
 
 72
 00:03:19,760 --> 00:03:21,656
@@ -292,7 +292,7 @@ words, it's a it's like a
 
 74
 00:03:24,879 --> 00:03:28,536
-um spy versus spy sort of thing where
+spy versus spy sort of thing where
 
 75
 00:03:28,560 --> 00:03:31,096
@@ -312,7 +312,7 @@ you know, you know, engage in cyber
 
 79
 00:03:38,400 --> 00:03:41,176
-attacks. And so they're saying uh
+attacks. And so they're saying
 
 80
 00:03:41,200 --> 00:03:43,656
@@ -348,7 +348,7 @@ highly resilient in this sort of
 
 88
 00:04:03,200 --> 00:04:06,616
-scenario. Um so what does an AI based
+scenario. so what does an AI based
 
 89
 00:04:06,640 --> 00:04:08,376
@@ -376,7 +376,7 @@ creates
 
 95
 00:04:20,320 --> 00:04:23,976
-a picture uh you know digital picture of
+a picture you know digital picture of
 
 96
 00:04:24,000 --> 00:04:26,455
@@ -392,7 +392,7 @@ attacker has to impersonate
 
 99
 00:04:31,600 --> 00:04:34,376
-um something that correlates better to
+something that correlates better to
 
 100
 00:04:34,400 --> 00:04:36,056
@@ -412,7 +412,7 @@ behavior and and collecting those
 
 104
 00:04:44,320 --> 00:04:47,336
-signals um you know called fraud signals
+signals you know called fraud signals
 
 105
 00:04:47,360 --> 00:04:51,016
@@ -492,7 +492,7 @@ that isn't scary from a privacy tracking
 
 124
 00:05:35,360 --> 00:05:37,735
-surveillance perspective, um you don't
+surveillance perspective, you don't
 
 125
 00:05:37,759 --> 00:05:39,735
@@ -500,7 +500,7 @@ know what scary is because that is
 
 126
 00:05:39,759 --> 00:05:41,976
-pretty scary from a um but that but
+pretty scary from a but that but
 
 127
 00:05:42,000 --> 00:05:44,536
@@ -508,7 +508,7 @@ that's that's what that looks like.
 
 128
 00:05:44,560 --> 00:05:47,895
-Whereas KERI is based on uh a
+Whereas KERI is based on a
 
 129
 00:05:47,919 --> 00:05:50,056
@@ -532,7 +532,7 @@ weak things that current
 
 134
 00:06:02,320 --> 00:06:04,856
-uh internet-based identity are based on
+internet-based identity are based on
 
 135
 00:06:04,880 --> 00:06:06,856
@@ -568,11 +568,11 @@ it's a it's a ground up new design that
 
 143
 00:06:24,160 --> 00:06:27,015
-is uh designed from the beginning to be
+is designed from the beginning to be
 
 144
 00:06:27,039 --> 00:06:29,976
-fault tolerant to survive attack uh to
+fault tolerant to survive attack to
 
 145
 00:06:30,000 --> 00:06:31,735
@@ -588,7 +588,7 @@ to be resilient to these these sorts of
 
 148
 00:06:37,759 --> 00:06:39,735
-uh attacks.
+attacks.
 
 149
 00:06:39,759 --> 00:06:42,376
@@ -652,7 +652,7 @@ them, you know, data to correlate pretty
 
 164
 00:07:14,240 --> 00:07:16,696
-much anything about anything you do. um
+much anything about anything you do.
 
 165
 00:07:16,720 --> 00:07:18,536
@@ -672,7 +672,7 @@ this discussion is answer some highle
 
 169
 00:07:26,960 --> 00:07:30,536
-questions about what this means. Um so
+questions about what this means. so
 
 170
 00:07:30,560 --> 00:07:32,295
@@ -684,7 +684,7 @@ there's a question and then I'm going to
 
 172
 00:07:33,520 --> 00:07:36,216
-go into more detail on that. Um but but
+go into more detail on that. but but
 
 173
 00:07:36,240 --> 00:07:39,015
@@ -740,7 +740,7 @@ verifiable calling, which is getting rid
 
 186
 00:08:06,000 --> 00:08:10,615
-of um uh spam in calling. Um and in the
+of spam in calling. and in the
 
 187
 00:08:10,639 --> 00:08:12,615
@@ -748,7 +748,7 @@ healthcare sector, there's there's
 
 188
 00:08:12,639 --> 00:08:16,295
-there's work on on on using KERI for uh
+there's work on on on using KERI for
 
 189
 00:08:16,319 --> 00:08:19,976
@@ -756,7 +756,7 @@ patient ID. Um, all of those are major
 
 190
 00:08:20,000 --> 00:08:24,056
-significant adoption vectors that um
+significant adoption vectors that
 
 191
 00:08:24,080 --> 00:08:26,936
@@ -792,7 +792,7 @@ So, let's talk about that.
 
 199
 00:08:47,120 --> 00:08:50,296
-Um the five I's statement calls for AI
+the five I's statement calls for AI
 
 200
 00:08:50,320 --> 00:08:53,096
@@ -868,7 +868,7 @@ goal is to protect you from fraud. But
 
 218
 00:09:30,399 --> 00:09:35,016
-uh but AIS themselves don't have any
+but AIS themselves don't have any
 
 219
 00:09:35,040 --> 00:09:37,736
@@ -892,11 +892,11 @@ should do or not do versus anything that
 
 224
 00:09:47,360 --> 00:09:52,456
-it's within its um its feature space or
+it's within its its feature space or
 
 225
 00:09:52,480 --> 00:09:55,736
-weight space. uh based on you know the
+weight space. based on you know the
 
 226
 00:09:55,760 --> 00:09:58,296
@@ -912,7 +912,7 @@ temperature by which it's deciding which
 
 229
 00:10:03,120 --> 00:10:06,296
-with patch to follow paths to follow um
+with patch to follow paths to follow
 
 230
 00:10:06,320 --> 00:10:08,296
@@ -924,11 +924,11 @@ re recently released in March 100page
 
 232
 00:10:12,480 --> 00:10:14,856
-uh cyber security report on the new AI
+cyber security report on the new AI
 
 233
 00:10:14,880 --> 00:10:19,016
-threat and it is stark and uh because
+threat and it is stark and because
 
 234
 00:10:19,040 --> 00:10:21,815
@@ -944,7 +944,7 @@ aren't any
 
 237
 00:10:26,240 --> 00:10:28,935
-uh uh solutions for it. They say that in
+solutions for it. They say that in
 
 238
 00:10:28,959 --> 00:10:31,336
@@ -968,7 +968,7 @@ cryptographic verifiable identity
 
 243
 00:10:40,160 --> 00:10:43,736
-infrastructure. Um so that that is the
+infrastructure. so that that is the
 
 244
 00:10:43,760 --> 00:10:45,896
@@ -988,7 +988,7 @@ that are needed to ensure
 
 248
 00:10:54,160 --> 00:10:57,096
-um that every significant AI action
+that every significant AI action
 
 249
 00:10:57,120 --> 00:10:58,856
@@ -1008,7 +1008,7 @@ and a legal
 
 253
 00:11:06,560 --> 00:11:10,616
-um bull work for our individual rights.
+bull work for our individual rights.
 
 254
 00:11:10,640 --> 00:11:12,616
@@ -1096,7 +1096,7 @@ developed over the last few years.
 
 275
 00:12:02,800 --> 00:12:05,016
-There's some legal scholars um that have
+There's some legal scholars that have
 
 276
 00:12:05,040 --> 00:12:06,856
@@ -1104,7 +1104,7 @@ been working on it, written several
 
 277
 00:12:06,880 --> 00:12:10,136
-papers uh papers on it and the state of
+papers papers on it and the state of
 
 278
 00:12:10,160 --> 00:12:12,136
@@ -1116,7 +1116,7 @@ legislation
 
 280
 00:12:13,760 --> 00:12:16,296
-um that that requires that people who
+that that requires that people who
 
 281
 00:12:16,320 --> 00:12:19,576
@@ -1136,7 +1136,7 @@ start. And then you have to layer on top
 
 285
 00:12:26,959 --> 00:12:30,615
-of that um a mechanism for people to be
+of that a mechanism for people to be
 
 286
 00:12:30,639 --> 00:12:32,536
@@ -1152,7 +1152,7 @@ it's not simply consent. It's actual,
 
 289
 00:12:40,160 --> 00:12:44,615
-you know, um engaging in uh in in what
+you know, engaging in in in what
 
 290
 00:12:44,639 --> 00:12:47,495
@@ -1160,7 +1160,7 @@ is in their best interest and attaching
 
 291
 00:12:47,519 --> 00:12:50,536
-to um the use of that data what is
+to the use of that data what is
 
 292
 00:12:50,560 --> 00:12:52,696
@@ -1208,7 +1208,7 @@ being a leader in it and there's a there
 
 303
 00:13:15,839 --> 00:13:18,935
-is a um coalition of other states that
+is a coalition of other states that
 
 304
 00:13:18,959 --> 00:13:20,776
@@ -1224,7 +1224,7 @@ to be able to do that. But but absent
 
 307
 00:13:24,959 --> 00:13:28,615
-that um uh it's going to be very
+that it's going to be very
 
 308
 00:13:28,639 --> 00:13:31,976
@@ -1248,7 +1248,7 @@ um
 
 313
 00:13:41,600 --> 00:13:46,375
-so um so the NSA's reports calls for
+so so the NSA's reports calls for
 
 314
 00:13:46,399 --> 00:13:48,776
@@ -1256,7 +1256,7 @@ stronger identity and access controls.
 
 315
 00:13:48,800 --> 00:13:52,456
-Right. Well um there there's a problem
+Right. Well there there's a problem
 
 316
 00:13:52,480 --> 00:13:53,656
@@ -1268,7 +1268,7 @@ the the problem is what what what counts
 
 318
 00:13:55,920 --> 00:14:00,375
-as stronger, right? I mean, um the the
+as stronger, right? I mean, the the
 
 319
 00:14:00,399 --> 00:14:02,776
@@ -1308,7 +1308,7 @@ It's like I I guess you could say it's
 
 328
 00:14:23,680 --> 00:14:28,136
-like going from uh from uh armor made
+like going from from armor made
 
 329
 00:14:28,160 --> 00:14:31,416
@@ -1340,7 +1340,7 @@ so KERI was designed from the ground
 
 336
 00:14:46,880 --> 00:14:51,656
-up to not require um an AI to defend
+up to not require an AI to defend
 
 337
 00:14:51,680 --> 00:14:54,216
@@ -1416,7 +1416,7 @@ KERI is a new architecture.
 
 355
 00:15:34,399 --> 00:15:37,416
-Um so when an when an when so this
+so when an when an when so this
 
 356
 00:15:37,440 --> 00:15:39,495
@@ -1432,7 +1432,7 @@ when attackers can operate at AI speed
 
 359
 00:15:43,519 --> 00:15:50,055
-and scale. Um well most vulnerabilities
+and scale. well most vulnerabilities
 
 360
 00:15:50,079 --> 00:15:52,615
@@ -1452,7 +1452,7 @@ you might have an algorithmic
 
 364
 00:16:00,880 --> 00:16:03,096
-um an infrastructure,
+an infrastructure,
 
 365
 00:16:03,120 --> 00:16:06,615
@@ -1464,7 +1464,7 @@ and a usage vulnerability that together
 
 367
 00:16:11,120 --> 00:16:13,735
-uh enable an attack. A recursive
+enable an attack. A recursive
 
 368
 00:16:13,759 --> 00:16:16,536
@@ -1488,7 +1488,7 @@ or in an access control organizational
 
 373
 00:16:28,720 --> 00:16:31,735
-space um by exploiting different
+space by exploiting different
 
 374
 00:16:31,759 --> 00:16:33,815
@@ -1520,7 +1520,7 @@ And with AI, they can search faster.
 
 381
 00:16:51,360 --> 00:16:54,696
-They can combine exploits faster um
+They can combine exploits faster
 
 382
 00:16:54,720 --> 00:16:56,055
@@ -1540,7 +1540,7 @@ last week, where they were able to
 
 386
 00:17:02,399 --> 00:17:06,616
-exploit um the memory security model in
+exploit the memory security model in
 
 387
 00:17:06,640 --> 00:17:09,496
@@ -1548,11 +1548,11 @@ Apple's M5 architecture
 
 388
 00:17:09,520 --> 00:17:12,775
-um through a combination of human and
+through a combination of human and
 
 389
 00:17:12,799 --> 00:17:18,376
-machine AI um analysis that the humans
+machine AI analysis that the humans
 
 390
 00:17:18,400 --> 00:17:19,736
@@ -1596,7 +1596,7 @@ attackers are are human the you know
 
 400
 00:17:41,360 --> 00:17:44,376
-most of these attacks are guided by uh
+most of these attacks are guided by
 
 401
 00:17:44,400 --> 00:17:46,775
@@ -1628,7 +1628,7 @@ multiplier. And that means that
 
 408
 00:18:02,000 --> 00:18:07,096
-um even hard to find unknown exploits
+even hard to find unknown exploits
 
 409
 00:18:07,120 --> 00:18:08,856
@@ -1684,7 +1684,7 @@ inevitable.
 
 422
 00:18:37,919 --> 00:18:39,816
-Um and the question is in a KERI-based
+and the question is in a KERI-based
 
 423
 00:18:39,840 --> 00:18:41,655
@@ -1720,7 +1720,7 @@ and recover from from compromise.
 
 431
 00:19:02,000 --> 00:19:05,576
-And so what happens is is that um you
+And so what happens is is that you
 
 432
 00:19:05,600 --> 00:19:07,976
@@ -1728,7 +1728,7 @@ you you may not be able to anticipate
 
 433
 00:19:08,000 --> 00:19:11,976
-all of the um ways that an attacker can
+all of the ways that an attacker can
 
 434
 00:19:12,000 --> 00:19:14,296
@@ -1772,7 +1772,7 @@ be very long. It might be it might be
 
 444
 00:19:38,960 --> 00:19:42,936
-hours or days, you know. Um now now
+hours or days, you know. now now
 
 445
 00:19:42,960 --> 00:19:45,655
@@ -1804,7 +1804,7 @@ able to detect breaches, right? That's
 
 452
 00:19:59,120 --> 00:20:02,775
-that's the idea. Um is 6 months and then
+that's the idea. is 6 months and then
 
 453
 00:20:02,799 --> 00:20:04,936
@@ -1816,7 +1816,7 @@ breach. So it's nine months of time that
 
 455
 00:20:07,039 --> 00:20:10,936
-an attacker has to uh to exploit the the
+an attacker has to to exploit the the
 
 456
 00:20:10,960 --> 00:20:12,535
@@ -1824,7 +1824,7 @@ vulnerability that they've discovered.
 
 457
 00:20:12,559 --> 00:20:16,775
-So so so KERI um is designed so that
+So so so KERI is designed so that
 
 458
 00:20:16,799 --> 00:20:19,496
@@ -1836,7 +1836,7 @@ of seconds. It's network propagation
 
 460
 00:20:21,600 --> 00:20:25,976
-time. Um so so that breaches that are
+time. so so that breaches that are
 
 461
 00:20:26,000 --> 00:20:27,655
@@ -1876,11 +1876,11 @@ which then enables
 
 470
 00:20:47,679 --> 00:20:49,816
-um the controller of the identity to
+the controller of the identity to
 
 471
 00:20:49,840 --> 00:20:53,096
-recover from that um in a timely
+recover from that in a timely
 
 472
 00:20:53,120 --> 00:20:54,696
@@ -1896,7 +1896,7 @@ means that the the the blast radius of
 
 475
 00:20:59,600 --> 00:21:02,696
-the attack is minimized um in such that
+the attack is minimized in such that
 
 476
 00:21:02,720 --> 00:21:06,056
@@ -1916,11 +1916,11 @@ to execute the attack than they get from
 
 480
 00:21:13,200 --> 00:21:17,336
-it because the attack is quickly um uh
+it because the attack is quickly
 
 481
 00:21:17,360 --> 00:21:21,816
-uh contained and and and recovered from.
+contained and and and recovered from.
 
 482
 00:21:21,840 --> 00:21:23,895
@@ -1976,7 +1976,7 @@ ago. Not so much 10 years ago, but 20
 
 495
 00:21:46,640 --> 00:21:49,336
-years ago for sure. Um but at least in
+years ago for sure. but at least in
 
 496
 00:21:49,360 --> 00:21:51,015
@@ -2004,7 +2004,7 @@ things most all of these systems that
 
 502
 00:22:04,080 --> 00:22:09,576
-that use um DNS TLS OOTH OIDC based
+that use DNS TLS OOTH OIDC based
 
 503
 00:22:09,600 --> 00:22:13,015
@@ -2016,7 +2016,7 @@ and shared secrets are inherently weak
 
 505
 00:22:15,200 --> 00:22:18,936
-and and inherently contribute ute to uh
+and and inherently contribute ute to
 
 506
 00:22:18,960 --> 00:22:21,336
@@ -2024,7 +2024,7 @@ recursive privilege escalation attacks.
 
 507
 00:22:21,360 --> 00:22:25,256
-And so it's really just uh figuring out
+And so it's really just figuring out
 
 508
 00:22:25,280 --> 00:22:27,176
@@ -2068,7 +2068,7 @@ And even if they're successful in that
 
 518
 00:22:46,159 --> 00:22:49,015
-attack, um if you have a recovery
+attack, if you have a recovery
 
 519
 00:22:49,039 --> 00:22:50,696
@@ -2092,7 +2092,7 @@ to any sort of bomb. You spend your time
 
 524
 00:23:01,760 --> 00:23:05,976
-um building, you know, uh a squadron of
+building, you know, a squadron of
 
 525
 00:23:06,000 --> 00:23:07,496
@@ -2156,7 +2156,7 @@ an AI world is a fault tolerant system,
 
 540
 00:23:39,360 --> 00:23:42,216
-not a uh a system that that you have to
+not a a system that that you have to
 
 541
 00:23:42,240 --> 00:23:45,416
@@ -2176,7 +2176,7 @@ been attacked or breached because you
 
 545
 00:23:51,760 --> 00:23:54,856
-have no uh you have no uh mechanism for
+have no you have no mechanism for
 
 546
 00:23:54,880 --> 00:23:56,535
@@ -2196,7 +2196,7 @@ so
 
 550
 00:24:02,559 --> 00:24:05,256
-yeah so so actually uh this question I I
+yeah so so actually this question I I
 
 551
 00:24:05,280 --> 00:24:07,256
@@ -2220,7 +2220,7 @@ provenance. So the idea in cryptography
 
 556
 00:24:14,960 --> 00:24:18,456
-is that um in in asymmetric cryptography
+is that in in asymmetric cryptography
 
 557
 00:24:18,480 --> 00:24:20,616
@@ -2240,7 +2240,7 @@ the problem is is that that people who
 
 561
 00:24:28,799 --> 00:24:32,535
-want to um have an digital identity have
+want to have an digital identity have
 
 562
 00:24:32,559 --> 00:24:34,616
@@ -2304,7 +2304,7 @@ and that's and and and that ends up
 
 577
 00:25:07,200 --> 00:25:10,376
-looking like um shared secrets um bearer
+looking like shared secrets bearer
 
 578
 00:25:10,400 --> 00:25:12,856
@@ -2320,7 +2320,7 @@ entities to be able to engage in things
 
 581
 00:25:17,679 --> 00:25:21,336
-with over over um secure channels,
+with over over secure channels,
 
 582
 00:25:21,360 --> 00:25:23,336
@@ -2344,7 +2344,7 @@ exchange an encryption key which is then
 
 587
 00:25:32,320 --> 00:25:35,976
-weakly authenticated by by by uh uh
+weakly authenticated by by by
 
 588
 00:25:36,000 --> 00:25:37,416
@@ -2356,7 +2356,7 @@ side decrypts it and then sends it back
 
 590
 00:25:38,880 --> 00:25:41,176
-to you. Um so, but it but it's subject
+to you. so, but it but it's subject
 
 591
 00:25:41,200 --> 00:25:43,255
@@ -2384,27 +2384,27 @@ to build key management the right way.
 
 597
 00:25:54,000 --> 00:25:56,616
-We're going to make it um fall tolerant
+We're going to make it fall tolerant
 
 598
 00:25:56,640 --> 00:25:58,456
-and we're and then we're going to uh
+and we're and then we're going to
 
 599
 00:25:58,480 --> 00:26:01,496
-enable people to use it in a way that um
+enable people to use it in a way that
 
 600
 00:26:01,520 --> 00:26:06,216
-that requires um too much effort
+that requires too much effort
 
 601
 00:26:06,240 --> 00:26:10,216
-uh for for for for the attack to be
+for for for for the attack to be
 
 602
 00:26:10,240 --> 00:26:12,936
-successful." and KERI uh uses
+successful." and KERI uses
 
 603
 00:26:12,960 --> 00:26:14,696
@@ -2412,11 +2412,11 @@ threshold structures multi multi-
 
 604
 00:26:14,720 --> 00:26:17,976
-signature um witness pools watcher pools
+signature witness pools watcher pools
 
 605
 00:26:18,000 --> 00:26:21,096
-and delegated uh aids that that are
+and delegated aids that that are
 
 606
 00:26:21,120 --> 00:26:23,895
@@ -2448,7 +2448,7 @@ structures. Um, and relative to the cost
 
 613
 00:26:40,960 --> 00:26:44,696
-uh of the resources to run a a defensive
+of the resources to run a a defensive
 
 614
 00:26:44,720 --> 00:26:46,535
@@ -2528,7 +2528,7 @@ protocol which which would take it too
 
 633
 00:27:31,840 --> 00:27:36,056
-much time. Um it doesn't have those the
+much time. it doesn't have those the
 
 634
 00:27:36,080 --> 00:27:37,576
@@ -2536,11 +2536,11 @@ weaknesses that our current shared
 
 635
 00:27:37,600 --> 00:27:40,936
-secret based um uh systems do which are
+secret based systems do which are
 
 636
 00:27:40,960 --> 00:27:45,496
-vulnerable to exploit by AIS. Um uh AIs
+vulnerable to exploit by AIS. AIs
 
 637
 00:27:45,520 --> 00:27:48,216
@@ -2548,11 +2548,11 @@ can't brute force
 
 638
 00:27:48,240 --> 00:27:50,296
-um a public key to get to a private key.
+a public key to get to a private key.
 
 639
 00:27:50,320 --> 00:27:52,856
-Now if I have a quantum computer that's
+Now if I have a quantcomputer that's
 
 640
 00:27:52,880 --> 00:27:54,296
@@ -2560,11 +2560,11 @@ a different story but we now have
 
 641
 00:27:54,320 --> 00:27:57,255
-post quantum you know public private key
+post quantyou know public private key
 
 642
 00:27:57,279 --> 00:28:00,296
-generation algorithms. Um and if your
+generation algorithms. and if your
 
 643
 00:28:00,320 --> 00:28:01,655
@@ -2608,7 +2608,7 @@ channel attacks that work are much
 
 653
 00:28:24,720 --> 00:28:28,375
-greater. Um so if I've got you know a
+greater. so if I've got you know a
 
 654
 00:28:28,399 --> 00:28:30,216
@@ -2628,7 +2628,7 @@ compromised, I can recover from it
 
 658
 00:28:36,799 --> 00:28:40,456
-through uh car's pre-rotation mechanism.
+through car's pre-rotation mechanism.
 
 659
 00:28:40,480 --> 00:28:42,856
@@ -2672,7 +2672,7 @@ than what you gain for it because of the
 
 669
 00:29:06,880 --> 00:29:09,736
-the the inherent uh distributed nature
+the the inherent distributed nature
 
 670
 00:29:09,760 --> 00:29:12,456
@@ -2684,7 +2684,7 @@ Um
 
 672
 00:29:14,080 --> 00:29:16,616
-and and I'll go back to this word uh
+and and I'll go back to this word
 
 673
 00:29:16,640 --> 00:29:18,535
@@ -2700,7 +2700,7 @@ security
 
 676
 00:29:23,279 --> 00:29:26,456
-um requires secure attribution. You need
+requires secure attribution. You need
 
 677
 00:29:26,480 --> 00:29:29,655
@@ -2708,11 +2708,11 @@ to know who's doing what.
 
 678
 00:29:29,679 --> 00:29:33,976
-Um but but you also
+but but you also
 
 679
 00:29:34,000 --> 00:29:36,456
-um want to be able to control what
+want to be able to control what
 
 680
 00:29:36,480 --> 00:29:38,216
@@ -2812,7 +2812,7 @@ person is delegating authority to an
 
 704
 00:30:34,720 --> 00:30:37,416
-agentic AI, um then you then you can
+agentic AI, then you then you can
 
 705
 00:30:37,440 --> 00:30:39,655
@@ -2832,7 +2832,7 @@ chains of authority or chains of
 
 709
 00:30:46,880 --> 00:30:50,535
-provenence or uh chains of custody. um
+provenence or chains of custody.
 
 710
 00:30:50,559 --> 00:30:53,336
@@ -2872,11 +2872,11 @@ Um
 
 719
 00:31:13,039 --> 00:31:14,936
-uh privacy without surveillance. What is
+privacy without surveillance. What is
 
 720
 00:31:14,960 --> 00:31:16,696
-the minimum amount of data disclosure
+the minimamount of data disclosure
 
 721
 00:31:16,720 --> 00:31:18,456
@@ -2888,7 +2888,7 @@ creating surveillance society?
 
 723
 00:31:21,200 --> 00:31:24,696
-Um that's an interesting question. Um
+that's an interesting question. Um
 
 724
 00:31:24,720 --> 00:31:26,296
@@ -2900,11 +2900,11 @@ each context, each transaction, each
 
 726
 00:31:28,720 --> 00:31:31,816
-application the minimum is different
+application the minimis different
 
 727
 00:31:31,840 --> 00:31:35,895
-because um for high stakes transactions
+because for high stakes transactions
 
 728
 00:31:35,919 --> 00:31:38,216
@@ -2912,7 +2912,7 @@ where there's high value
 
 729
 00:31:38,240 --> 00:31:41,416
-um usually the amount of trust required
+usually the amount of trust required
 
 730
 00:31:41,440 --> 00:31:43,736
@@ -2928,7 +2928,7 @@ predict
 
 733
 00:31:47,440 --> 00:31:50,056
-um the outcome and the behavior of the
+the outcome and the behavior of the
 
 734
 00:31:50,080 --> 00:31:53,015
@@ -2936,7 +2936,7 @@ participants to that interaction.
 
 735
 00:31:53,039 --> 00:31:55,736
-Um for low stakes interactions, the
+for low stakes interactions, the
 
 736
 00:31:55,760 --> 00:31:58,616
@@ -2952,7 +2952,7 @@ the highest transactions
 
 739
 00:32:04,559 --> 00:32:07,255
-um but still allows you to tune it for
+but still allows you to tune it for
 
 740
 00:32:07,279 --> 00:32:09,255
@@ -2960,7 +2960,7 @@ the lowest stakes transactions and
 
 741
 00:32:09,279 --> 00:32:12,775
-KERI does that. Um but but how do you
+KERI does that. but but how do you
 
 742
 00:32:12,799 --> 00:32:14,456
@@ -2980,7 +2980,7 @@ have balanced
 
 746
 00:32:21,600 --> 00:32:23,576
-um obligations,
+obligations,
 
 747
 00:32:23,600 --> 00:32:27,015
@@ -3040,7 +3040,7 @@ hide from surveillance. And that's not
 
 761
 00:32:56,399 --> 00:33:00,216
-true. With AI, there's no hiding. Um if
+true. With AI, there's no hiding. if
 
 762
 00:33:00,240 --> 00:33:01,976
@@ -3104,7 +3104,7 @@ becomes a a a correlatable signal that
 
 777
 00:33:33,120 --> 00:33:36,135
-results in in something uh that is
+results in in something that is
 
 778
 00:33:36,159 --> 00:33:38,216
@@ -3124,19 +3124,19 @@ and that means putting accountability on
 
 782
 00:33:44,799 --> 00:33:47,495
-the exploiters. Um and that and that and
+the exploiters. and that and that and
 
 783
 00:33:47,519 --> 00:33:51,096
-and that requires uh that requires a a
+and that requires that requires a a
 
 784
 00:33:51,120 --> 00:33:54,696
-slightly different uh well a profoundly
+slightly different well a profoundly
 
 785
 00:33:54,720 --> 00:33:59,096
-different um legal and regulatory and
+different legal and regulatory and
 
 786
 00:33:59,120 --> 00:34:01,655
@@ -3152,11 +3152,11 @@ that that hiding isn't how you how you
 
 789
 00:34:07,039 --> 00:34:10,776
-do it. Um you can partition context so
+do it. you can partition context so
 
 790
 00:34:10,800 --> 00:34:14,375
-that you can um uh keep keep the
+that you can keep keep the
 
 791
 00:34:14,399 --> 00:34:16,776
@@ -3176,7 +3176,7 @@ to be able to do is make your ability to
 
 795
 00:34:24,159 --> 00:34:27,256
-enforce um the mi the exploitation or
+enforce the mi the exploitation or
 
 796
 00:34:27,280 --> 00:34:29,736
@@ -3192,15 +3192,15 @@ to to contextually specific identifiers
 
 799
 00:34:35,760 --> 00:34:38,536
-can be used to remove um plausible
+can be used to remove plausible
 
 800
 00:34:38,560 --> 00:34:41,416
-deniability by the other parties uh to
+deniability by the other parties to
 
 801
 00:34:41,440 --> 00:34:44,456
-those transactions. Um so so there's
+those transactions. so so there's
 
 802
 00:34:44,480 --> 00:34:48,776
@@ -3288,7 +3288,7 @@ you know, at all,
 
 823
 00:35:31,920 --> 00:35:35,416
-um then then then it's really hard. And
+then then then it's really hard. And
 
 824
 00:35:35,440 --> 00:35:37,256
@@ -3420,7 +3420,7 @@ control before you can have privacy.
 
 856
 00:36:56,000 --> 00:37:00,536
-Uh and and so so so the stark choice is
+And so the stark choice is
 
 857
 00:37:00,560 --> 00:37:03,016
@@ -3508,7 +3508,7 @@ why is there no stable middle ground? I
 
 878
 00:37:46,560 --> 00:37:49,896
-think I just answered that. Um if AI
+think I just answered that. if AI
 
 879
 00:37:49,920 --> 00:37:53,896
@@ -3552,7 +3552,7 @@ Totally off-rid. Like off-rid in a way
 
 889
 00:38:19,599 --> 00:38:23,736
-that would be for most people um a a
+that would be for most people a a
 
 890
 00:38:23,760 --> 00:38:26,216
@@ -3564,7 +3564,7 @@ Um
 
 892
 00:38:30,240 --> 00:38:32,616
-um this is an interesting question. As
+this is an interesting question. As
 
 893
 00:38:32,640 --> 00:38:34,296
@@ -3620,7 +3620,7 @@ algorithms, the tracking algorithms,
 
 906
 00:39:02,800 --> 00:39:06,376
-target tracking. Um, uh, you can think
+target tracking. Um,, you can think
 
 907
 00:39:06,400 --> 00:39:10,376
@@ -3640,7 +3640,7 @@ world, that feature space might be, you
 
 911
 00:39:16,000 --> 00:39:18,776
-know, uh, latitude, longitude, uh,
+know,, latitude, longitude,,
 
 912
 00:39:18,800 --> 00:39:21,976
@@ -3676,7 +3676,7 @@ did you say, you know, what time was it,
 
 920
 00:39:38,000 --> 00:39:40,136
-um what browser did you use, what device
+what browser did you use, what device
 
 921
 00:39:40,160 --> 00:39:42,936
@@ -3692,7 +3692,7 @@ be used to create a digital fingerprint
 
 924
 00:39:48,960 --> 00:39:52,055
-um that that then can be tracked as you
+that that then can be tracked as you
 
 925
 00:39:52,079 --> 00:39:55,095
@@ -3744,7 +3744,7 @@ Right? Well, that means that
 
 937
 00:40:19,599 --> 00:40:23,575
-increasingly as uh AIs gain access to
+increasingly as AIs gain access to
 
 938
 00:40:23,599 --> 00:40:25,656
@@ -3780,7 +3780,7 @@ there's no there's no other approach and
 
 946
 00:40:46,480 --> 00:40:51,176
-maximal means um high resource right I
+maximal means high resource right I
 
 947
 00:40:51,200 --> 00:40:52,936
@@ -3804,7 +3804,7 @@ it doesn't it doesn't get less it gets
 
 952
 00:41:01,839 --> 00:41:04,295
-more um whereas cryptographically
+more whereas cryptographically
 
 953
 00:41:04,319 --> 00:41:05,815
@@ -3840,7 +3840,7 @@ private piece of information and you can
 
 961
 00:41:24,000 --> 00:41:27,335
-prove something um publicly without
+prove something publicly without
 
 962
 00:41:27,359 --> 00:41:29,176
@@ -3856,7 +3856,7 @@ various types of proofs and you can
 
 965
 00:41:32,480 --> 00:41:36,376
-prove that um indefinitely or
+prove that indefinitely or
 
 966
 00:41:36,400 --> 00:41:38,295
@@ -3888,11 +3888,11 @@ gets less expensive over time because
 
 973
 00:41:51,359 --> 00:41:53,815
-most of the cost is really reducing uh
+most of the cost is really reducing
 
 974
 00:41:53,839 --> 00:41:56,456
-user interface friction. Um and we're in
+user interface friction. and we're in
 
 975
 00:41:56,480 --> 00:41:57,815
@@ -3964,7 +3964,7 @@ to have strong delegation
 
 992
 00:42:38,880 --> 00:42:42,696
-um and have enforcement mechanisms
+and have enforcement mechanisms
 
 993
 00:42:42,720 --> 00:42:45,335
@@ -3984,7 +3984,7 @@ it's supposed to do. when it doesn't
 
 997
 00:42:52,560 --> 00:42:56,136
-then um then there's a can then then
+then then there's a can then then
 
 998
 00:42:56,160 --> 00:42:59,496
@@ -3996,7 +3996,7 @@ and and so there are there are people
 
 1000
 00:43:01,599 --> 00:43:04,856
-talking about um you know uh reputation
+talking about you know reputation
 
 1001
 00:43:04,880 --> 00:43:07,016
@@ -4012,7 +4012,7 @@ humans control and we can do that with w
 
 1004
 00:43:12,720 --> 00:43:15,896
-with with KERI-with uh if you have
+with with KERI-with if you have
 
 1005
 00:43:15,920 --> 00:43:17,335
@@ -4044,7 +4044,7 @@ fundamentally different in structure.
 
 1012
 00:43:29,599 --> 00:43:32,295
-They they break this um flat weight
+They they break this flat weight
 
 1013
 00:43:32,319 --> 00:43:34,936
@@ -4056,7 +4056,7 @@ or that makes it impossible to secure AI
 
 1015
 00:43:37,520 --> 00:43:39,256
-because uh everything's in the same
+because everything's in the same
 
 1016
 00:43:39,280 --> 00:43:41,815
@@ -4136,7 +4136,7 @@ build we can build transparent AIs
 
 1035
 00:44:23,040 --> 00:44:25,095
-um that only do things that we allow
+that only do things that we allow
 
 1036
 00:44:25,119 --> 00:44:27,976
@@ -4148,15 +4148,15 @@ differently. That doesn't mean that we
 
 1038
 00:44:29,599 --> 00:44:33,575
-have to throw away uh uh generative AI.
+have to throw away generative AI.
 
 1039
 00:44:33,599 --> 00:44:36,696
-we just have to we have to uh partition
+we just have to we have to partition
 
 1040
 00:44:36,720 --> 00:44:39,815
-the the the uh space in which it
+the the the space in which it
 
 1041
 00:44:39,839 --> 00:44:42,055
@@ -4164,7 +4164,7 @@ operates so that it's one thing to have
 
 1042
 00:44:42,079 --> 00:44:45,496
-a generative AI that understands uh
+a generative AI that understands
 
 1043
 00:44:45,520 --> 00:44:47,656
@@ -4180,7 +4180,7 @@ co to
 
 1046
 00:44:52,079 --> 00:44:54,295
-uh to do things on your behalf that's an
+to do things on your behalf that's an
 
 1047
 00:44:54,319 --> 00:44:56,776
@@ -4196,7 +4196,7 @@ interfaces and and that means that the
 
 1050
 00:45:02,000 --> 00:45:06,536
-the interface layer h has to have um
+the interface layer h has to have
 
 1051
 00:45:06,560 --> 00:45:08,136
@@ -4220,11 +4220,11 @@ alive and well and and and safe and to
 
 1056
 00:45:18,400 --> 00:45:21,496
-keep it from doing bad things. Um but we
+keep it from doing bad things. but we
 
 1057
 00:45:21,520 --> 00:45:24,216
-sort of forgotten about that um w with
+sort of forgotten about that w with
 
 1058
 00:45:24,240 --> 00:45:26,536
@@ -4384,11 +4384,11 @@ make the choice to say, you know what,
 
 1097
 00:46:55,680 --> 00:46:57,976
-I've been using this uh digital persona
+I've been using this digital persona
 
 1098
 00:46:58,000 --> 00:47:01,095
-AI, but I want to switch to using uh uh
+AI, but I want to switch to using
 
 1099
 00:47:01,119 --> 00:47:03,976
@@ -4396,11 +4396,11 @@ cryptographically verifiable human human
 
 1100
 00:47:04,000 --> 00:47:06,536
-individual controlled uh identity
+individual controlled identity
 
 1101
 00:47:06,560 --> 00:47:09,736
-system. And so um there, as I mentioned
+system. And so there, as I mentioned
 
 1102
 00:47:09,760 --> 00:47:11,095
@@ -4456,11 +4456,11 @@ KERI for in the in early adoption in
 
 1115
 00:47:40,720 --> 00:47:44,616
-the telecom sector um in and the healthc
+the telecom sector in and the healthc
 
 1116
 00:47:44,640 --> 00:47:49,736
-care sector. Um so so so the the the you
+care sector. so so so the the the you
 
 1117
 00:47:49,760 --> 00:47:52,055
@@ -4480,7 +4480,7 @@ exponentially fast. All they need is
 
 1121
 00:47:57,119 --> 00:48:02,136
-sunlight, water and and uh and soil and
+sunlight, water and and and soil and
 
 1122
 00:48:02,160 --> 00:48:04,856
@@ -4496,11 +4496,11 @@ Once adopted then it becomes a bull work
 
 1125
 00:48:09,760 --> 00:48:12,376
-against uh future encroachment. So, we
+against future encroachment. So, we
 
 1126
 00:48:12,400 --> 00:48:15,575
-get off the uh we get off the uh the
+get off the we get off the the
 
 1127
 00:48:15,599 --> 00:48:18,136
@@ -4528,11 +4528,11 @@ ourselves.
 
 1133
 00:48:28,319 --> 00:48:30,295
-Um which approach can be deployed more
+which approach can be deployed more
 
 1134
 00:48:30,319 --> 00:48:32,136
-quickly, more safely, more hum humanly
+quickly, more safely, more hhumanly
 
 1135
 00:48:32,160 --> 00:48:33,976
@@ -4544,15 +4544,15 @@ that's a trick question. Um
 
 1137
 00:48:37,359 --> 00:48:40,295
-uh certainly more safely and more
+certainly more safely and more
 
 1138
 00:48:40,319 --> 00:48:45,095
-humanly KERI more quickly uh not today
+humanly KERI more quickly not today
 
 1139
 00:48:45,119 --> 00:48:48,055
-but five years from now uh possibly
+but five years from now possibly
 
 1140
 00:48:48,079 --> 00:48:50,216
@@ -4568,7 +4568,7 @@ you know double the the number of
 
 1143
 00:48:56,400 --> 00:48:59,095
-servers that you have running in um AI
+servers that you have running in AI
 
 1144
 00:48:59,119 --> 00:49:01,416
@@ -4612,7 +4612,7 @@ a viable alternative before surveillance
 
 1154
 00:49:26,800 --> 00:49:30,055
-space systems become entrenched? Um well
+space systems become entrenched? well
 
 1155
 00:49:30,079 --> 00:49:32,216
@@ -4620,7 +4620,7 @@ one is just people don't know about it.
 
 1156
 00:49:32,240 --> 00:49:34,055
-um so they don't know to that that it's
+so they don't know to that that it's
 
 1157
 00:49:34,079 --> 00:49:36,376
@@ -4628,7 +4628,7 @@ that actually is a viable choice. The
 
 1158
 00:49:36,400 --> 00:49:39,335
-other is is that um society is filled
+other is is that society is filled
 
 1159
 00:49:39,359 --> 00:49:41,016
@@ -4644,7 +4644,7 @@ old systems are the way to go and so
 
 1162
 00:49:47,680 --> 00:49:51,016
-they're they're um you know uh sort of
+they're they're you know sort of
 
 1163
 00:49:51,040 --> 00:49:53,176
@@ -4676,7 +4676,7 @@ right? Um
 
 1170
 00:50:05,440 --> 00:50:07,976
-uh as soon as soon as the hole breaches
+as soon as soon as the hole breaches
 
 1171
 00:50:08,000 --> 00:50:10,456
@@ -4728,7 +4728,7 @@ clear where where where for most people
 
 1183
 00:50:36,800 --> 00:50:40,535
-that are um that care about this stuff
+that are that care about this stuff
 
 1184
 00:50:40,559 --> 00:50:42,616
@@ -4804,11 +4804,11 @@ out. Um, so so that's the alternative.
 
 1202
 00:51:22,480 --> 00:51:24,616
-And I have this uh picture that I got
+And I have this picture that I got
 
 1203
 00:51:24,640 --> 00:51:28,136
-from uh Chris Bramwell who's working on
+from Chris Bramwell who's working on
 
 1204
 00:51:28,160 --> 00:51:31,095
@@ -4816,7 +4816,7 @@ on on this SETI for the state of Utah.
 
 1205
 00:51:31,119 --> 00:51:34,456
-Um, uh, STEI, the last best hope against
+Um,, STEI, the last best hope against
 
 1206
 00:51:34,480 --> 00:51:38,456
@@ -4860,7 +4860,7 @@ to be continuously surveiled so that it
 
 1216
 00:52:05,119 --> 00:52:08,456
-can build a high fidelity uh persona of
+can build a high fidelity persona of
 
 1217
 00:52:08,480 --> 00:52:11,976
@@ -4884,7 +4884,7 @@ it can that that it can steal your
 
 1222
 00:52:22,240 --> 00:52:26,616
-identity and and um and exploit you. And
+identity and and and exploit you. And
 
 1223
 00:52:26,640 --> 00:52:28,856
@@ -4912,7 +4912,7 @@ I hope this has been helpful. I hope I
 
 1229
 00:52:40,079 --> 00:52:42,776
-you know, if you if you're worried um
+you know, if you if you're worried
 
 1230
 00:52:42,800 --> 00:52:45,256
@@ -4924,31 +4924,31 @@ you're you're not taking this seriously
 
 1232
 00:52:46,880 --> 00:52:49,656
-enough. You should you should be uh you
+enough. You should you should be you
 
 1233
 00:52:49,680 --> 00:52:53,095
-should you should be um
+should you should be
 
 1234
 00:52:53,119 --> 00:52:57,335
-uh uh uh worried like you've never been
+worried like you've never been
 
 1235
 00:52:57,359 --> 00:53:00,136
-before about uh the future of digital
+before about the future of digital
 
 1236
 00:53:00,160 --> 00:53:03,736
-identity. Uh g given how fast the the
+identity. Given how fast the the
 
 1237
 00:53:03,760 --> 00:53:07,575
-frontier models uh are growing in their
+frontier models are growing in their
 
 1238
 00:53:07,599 --> 00:53:10,376
-ability to exploit current um digital
+ability to exploit current digital
 
 1239
 00:53:10,400 --> 00:53:11,896
@@ -4980,11 +4980,11 @@ then
 
 1246
 00:53:24,160 --> 00:53:28,136
-then we're looking at uh an an impending
+then we're looking at an an impending
 
 1247
 00:53:28,160 --> 00:53:33,256
-catastrophe. Um uh and so and and what's
+catastrophe. and so and and what's
 
 1248
 00:53:33,280 --> 00:53:34,856
@@ -4992,15 +4992,15 @@ going to end up happening is people are
 
 1249
 00:53:34,880 --> 00:53:37,815
-just going to adopt um the easy path
+just going to adopt the easy path
 
 1250
 00:53:37,839 --> 00:53:43,575
-which is uh uh adopt uh uh AI based um
+which is adopt AI based
 
 1251
 00:53:43,599 --> 00:53:47,176
-uh digital identity and and and
+digital identity and and and
 
 1252
 00:53:47,200 --> 00:53:49,496
