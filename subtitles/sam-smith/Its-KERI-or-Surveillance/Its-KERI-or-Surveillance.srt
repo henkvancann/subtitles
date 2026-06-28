@@ -1040,7 +1040,7 @@ disseminated on paper. We now have a
 
 261
 00:11:30,160 --> 00:11:33,656
-digital realm where information is is
+digital realm where information is
 
 262
 00:11:33,680 --> 00:11:37,176
@@ -1060,7 +1060,7 @@ identity, your information, your
 
 266
 00:11:42,959 --> 00:11:46,216
-presence is com is different
+presence is different
 
 267
 00:11:46,240 --> 00:11:49,255
@@ -1076,11 +1076,11 @@ additional protections for that. And one
 
 270
 00:11:54,160 --> 00:11:55,976
-of those protections is called a duty of
+of those protections is called a “duty of
 
 271
 00:11:56,000 --> 00:11:58,696
-data loyalty. It's the it's probably the
+data loyalty”. It's probably the
 
 272
 00:11:58,720 --> 00:12:01,416
@@ -1100,7 +1100,7 @@ been working on it, written several
 
 276
 00:12:06,880 --> 00:12:10,136
-papers papers on it and the state of
+papers on it and the state of
 
 277
 00:12:10,160 --> 00:12:12,136
@@ -1108,11 +1108,11 @@ Utah recently adopted it in the
 
 278
 00:12:12,160 --> 00:12:13,736
-legislation
+legislation.
 
 279
 00:12:13,760 --> 00:12:16,296
-that that requires that people who
+That requires that people who
 
 280
 00:12:16,320 --> 00:12:19,576
@@ -1124,7 +1124,7 @@ data in a way that is in your best
 
 282
 00:12:21,600 --> 00:12:25,176
-interest. And that that that's the
+interest. And that's the
 
 283
 00:12:25,200 --> 00:12:26,935
@@ -1148,7 +1148,7 @@ it's not simply consent. It's actual
 
 288
 00:12:40,160 --> 00:12:44,615
-engaging in in in what
+engaging in what
 
 289
 00:12:44,639 --> 00:12:47,495
@@ -1284,7 +1284,7 @@ the AI can attack them in such in in
 
 322
 00:14:13,680 --> 00:14:17,336
-such a broad way now that that they need
+such a broad way now that they need
 
 323
 00:14:17,360 --> 00:14:19,656
@@ -1400,7 +1400,7 @@ modified but the core architecture
 
 351
 00:15:27,680 --> 00:15:30,375
-hasn't changed in in 30 years whereas
+hasn't changed in 30 years whereas
 
 352
 00:15:30,399 --> 00:15:33,680
@@ -1472,7 +1472,7 @@ to be able to both move
 
 369
 00:16:21,120 --> 00:16:25,896
-vertically and horizontally in in in an
+vertically and horizontally in an
 
 370
 00:16:25,920 --> 00:16:28,696
@@ -1596,7 +1596,7 @@ humans either criminals or nation states
 
 400
 00:17:46,799 --> 00:17:49,416
-that that that want want to come after
+that want want to come after
 
 401
 00:17:49,440 --> 00:17:52,296
@@ -2148,7 +2148,7 @@ an AI world is a fault tolerant system,
 
 538
 00:23:39,360 --> 00:23:42,216
-not a a system that that you have to
+not a a system that you have to
 
 539
 00:23:42,240 --> 00:23:45,416
@@ -2204,7 +2204,7 @@ provenance. So the idea in cryptography
 
 552
 00:24:14,960 --> 00:24:18,456
-is that in in asymmetric cryptography
+is that in asymmetric cryptography
 
 553
 00:24:18,480 --> 00:24:20,616
@@ -2220,7 +2220,7 @@ private in that they're never shared.
 
 556
 00:24:26,320 --> 00:24:28,775
-The problem is that that people who
+The problem is that people who
 
 557
 00:24:28,799 --> 00:24:32,535
@@ -2292,7 +2292,7 @@ looking like shared secrets bearer
 
 574
 00:25:10,400 --> 00:25:12,856
-tokens that that the identity provider
+tokens that the identity provider
 
 575
 00:25:12,880 --> 00:25:15,176
@@ -2400,7 +2400,7 @@ signature witness pools watcher pools
 
 601
 00:26:18,000 --> 00:26:21,096
-and delegated aids that that are
+and delegated aids that are
 
 602
 00:26:21,120 --> 00:26:23,895
@@ -2448,7 +2448,7 @@ trivally in trivally costly
 
 613
 00:26:52,720 --> 00:26:56,616
-in in in comparison. So that's that's re
+in comparison. So that's that's re
 
 614
 00:26:56,640 --> 00:26:59,096
@@ -2928,7 +2928,7 @@ amount is much less. So you need a
 
 733
 00:31:58,640 --> 00:32:02,135
-system that that gives you enough for
+system that gives you enough for
 
 734
 00:32:02,159 --> 00:32:04,535
@@ -3088,7 +3088,7 @@ becomes a a a correlatable signal that
 
 773
 00:33:33,120 --> 00:33:36,135
-results in in something that is
+results in something that is
 
 774
 00:33:36,159 --> 00:33:38,216
@@ -3132,7 +3132,7 @@ view, it requires understanding that
 
 784
 00:34:04,799 --> 00:34:07,015
-that that hiding isn't how you how you
+that hiding isn't how you how you
 
 785
 00:34:07,039 --> 00:34:10,776
@@ -3476,7 +3476,7 @@ might think but it does solve it in the
 
 870
 00:37:38,400 --> 00:37:40,456
-only way possible in in today's
+only way possible in today's
 
 871
 00:37:40,480 --> 00:37:42,376
@@ -3640,7 +3640,7 @@ of all of all of those things, right?
 
 911
 00:39:25,920 --> 00:39:29,416
-But in but in in identity world, you
+But in but in identity world, you
 
 912
 00:39:29,440 --> 00:39:31,496
@@ -3676,7 +3676,7 @@ be used to create a digital fingerprint
 
 920
 00:39:48,960 --> 00:39:52,055
-that that then can be tracked as you
+that then can be tracked as you
 
 921
 00:39:52,079 --> 00:39:55,095
@@ -4424,7 +4424,7 @@ the state endorsed digital identity
 
 1107
 00:47:30,560 --> 00:47:33,416
-initiative in in in the next
+initiative in the next
 
 1108
 00:47:33,440 --> 00:47:35,416
@@ -4604,7 +4604,7 @@ one is just people don't know about it.
 
 1152
 00:49:32,240 --> 00:49:34,055
-so they don't know to that that it's
+so they don't know to that it's
 
 1153
 00:49:34,079 --> 00:49:36,376
@@ -4864,7 +4864,7 @@ higher sufficiently high fidelity that
 
 1217
 00:52:20,079 --> 00:52:22,216
-it can that that it can steal your
+it can that it can steal your
 
 1218
 00:52:22,240 --> 00:52:26,616
