@@ -564,7 +564,7 @@ vulnerable to AI cyber attacks. It's
 
 142
 00:06:21,440 --> 00:06:24,136
-it's a it's a groundup new design that
+it's a it's a ground up new design that
 
 143
 00:06:24,160 --> 00:06:27,015
@@ -2276,7 +2276,7 @@ identity providers and re relying
 
 570
 00:24:49,039 --> 00:24:51,336
-parties and and then you use usernames
+parties and and then you use user names
 
 571
 00:24:51,360 --> 00:24:53,496
@@ -2284,7 +2284,7 @@ and passwords or now you know pass keys.
 
 572
 00:24:53,520 --> 00:24:55,096
-there's stronger things than usernames
+there's stronger things than user names
 
 573
 00:24:55,120 --> 00:24:57,496
@@ -2536,7 +2536,7 @@ weaknesses that our current shared
 
 635
 00:27:37,600 --> 00:27:40,936
-secretbased um uh systems do which are
+secret based um uh systems do which are
 
 636
 00:27:40,960 --> 00:27:45,496
@@ -2560,7 +2560,7 @@ a different story but we now have
 
 641
 00:27:54,320 --> 00:27:57,255
-postquantum you know public private key
+post quantum you know public private key
 
 642
 00:27:57,279 --> 00:28:00,296
@@ -3588,7 +3588,7 @@ reason it becomes less sustainable is
 
 898
 00:38:42,480 --> 00:38:46,616
-that it's a never- ending arms race.
+that it's a never-ending arms race.
 
 899
 00:38:46,640 --> 00:38:48,376
@@ -3708,7 +3708,7 @@ more information you have, the more
 
 928
 00:39:59,920 --> 00:40:02,456
-highfidelity that trajectory is. People
+high fidelity that trajectory is. People
 
 929
 00:40:02,480 --> 00:40:04,296
@@ -4012,7 +4012,7 @@ humans control and we can do that with w
 
 1004
 00:43:12,720 --> 00:43:15,896
-with with KERI- with uh if you have
+with with KERI-with uh if you have
 
 1005
 00:43:15,920 --> 00:43:17,335
@@ -4652,7 +4652,7 @@ like the you know sort of like the
 
 1164
 00:49:53,200 --> 00:49:55,575
-oldfashioned arguments used to you know
+old fashioned arguments used to you know
 
 1165
 00:49:55,599 --> 00:49:56,856
@@ -4860,7 +4860,7 @@ to be continuously surveiled so that it
 
 1216
 00:52:05,119 --> 00:52:08,456
-can build a highfidelity uh persona of
+can build a high fidelity uh persona of
 
 1217
 00:52:08,480 --> 00:52:11,976
